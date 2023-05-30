@@ -1,0 +1,94 @@
+*{
+    background-color: rgb(88, 85, 85);
+
+}
+option{
+    color: white;
+}
+
+#department{
+    border:2px solid white;
+    background-color: white;
+    width: 300px;
+    height: 50px;
+}
+.mainDiv{
+    display: flex;
+    justify-content: space-between;
+}
+.leftItems{
+    
+    background-color: white;
+    width: 300px;
+    min-height: 600px;
+    
+}
+  
+.rightItems div{
+    background-color: rgb(100, 88, 88);
+    width: 970px;
+    min-height: 600px;
+    
+    
+}
+.firstRow{
+    width: 800px;
+    display: flex;
+    
+    
+}
+.secondRow{
+    width: 800px;
+    display: flex;
+    
+}
+.thirdRow{
+    width: 800px;
+    display: flex;
+    
+}
+
+.firstRow div{
+    background-color: black;
+    width: 400px;
+    height: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 55px;
+    
+    
+} 
+div image{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+.secondRow div{
+    background-color: black;
+    width: 400px;
+    height: 50px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 55px;
+    justify-content: space-around;
+    
+    
+}
+
+.thirdRow div{
+    background-color: black;
+    width: 400px;
+    height: 50px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 55px;
+    justify-content: space-around;
+    
+}
+
+

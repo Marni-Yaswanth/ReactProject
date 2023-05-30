@@ -1,0 +1,37 @@
+.DivInOne{
+    display: flex;
+    justify-content: center;
+  }
+  .circleInSecond{
+    width: 100px;
+    background-color: white;
+    height: 100px;
+    border-radius: 50%;
+    border:1px blue solid;
+  }
+  .Div1 {
+    margin-left: 50px;
+    text-align: center;
+    background-color: rgb(206, 206, 206);
+}
+
+.Div2 {
+    margin-top: 100px;
+    text-align: center;
+    background-color: rgb(206, 206, 206);
+}
+.Div3{
+    text-align: center;
+}
+
+button{
+    
+    margin-top: 100px;
+    color: blue;
+    text-decoration: underline;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 5px;
+  }
